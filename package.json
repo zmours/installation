@@ -1,0 +1,31 @@
+{
+  "name": "installations-formations",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A list of instructions for setting up your laptops for Delicious Insights training sessions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deliciousinsights/installations-formations.git"
+  },
+  "keywords": [
+    "trainings",
+    "instructions",
+    "setup",
+    "installation"
+  ],
+  "author": "Christophe Porteneuve <christophe@delicious-insights.com>",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/deliciousinsights/installations-formations/issues"
+  },
+  "homepage": "https://github.com/deliciousinsights/installations-formations#readme",
+  "devDependencies": {
+    "gitbook": "^2.6.7",
+    "gitbook-plugin-advanced-emoji": "^0.1.6",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-heading-anchors": "^1.0.3",
+    "gitbook-plugin-image-captions": "^0.3.4",
+    "gitbook-plugin-prism": "^1.0.0",
+    "gitbook-plugin-richquotes": "0.0.7"
+  }
+}
